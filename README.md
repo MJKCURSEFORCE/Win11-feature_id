@@ -20,10 +20,32 @@ vivetool /disable /id:[feature id]
 ```
 这些是常用的激活和禁用命令。例如:
 ```
-vivetool /enable /id:48433719
+vivetool /enable /id:56005157
 ```
 
 当然，你可以提高这个id的激活权限，通常最高为2
 ```
 vivetool /enable /id:[feature id] /variant:[变种(自然数)] /priority:[权重(≥2的自然数)]
 ```
+例如:
+```
+vivetool /enable /id:56005157 /priority:2
+```
+其他也是同理。\
+## 涉及版本
+- [x] Windows 11 24H2
+- [ ] Windows 11 25H2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
