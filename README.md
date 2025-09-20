@@ -6,6 +6,9 @@
 > [!NOTE]
 > 有些功能需要加入预览体验计划后才能出现，或者永远没有效果。
 
+> [!CAUTION]
+> 部分功能是实验性功能，启用后可能会出现一些奇怪的现象。（或者bug）
+
 ## 查询和更新
 24H2的最新feature id[在这里](24H2-25H2/20250920_24H2-id.txt)  
 当然可以在`code`中找到相应的版本就能看见。  
@@ -39,6 +42,13 @@ vivetool /enable /id:[feature id] /variant:[变种(自然数)] /priority:[权重
 ```
 vivetool /enable /id:56005157 /priority:2
 ```
+> [!TIP]
+> 若要启用多个id，可以使用英文半角形式的逗号`,`连接。例如:
+
+```
+vivetool /enable /id:56005157,48801541
+```
+
 其它也是同理。
 ## 涉及版本
 - [x] Windows 11 24H2
