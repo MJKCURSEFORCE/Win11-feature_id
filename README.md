@@ -7,7 +7,7 @@
 > 有些功能需要加入预览体验计划后才能出现，或者永远没有效果。
 
 ## 查询和更新
-24H2的最新feature id[在这里](24H2-25H2/20250920_24H2.txt)  
+24H2的最新feature id[在这里](24H2-25H2/20250920_24H2-id.txt)  
 当然可以在`code`中找到相应的版本就能看见。  
 **这些文件随时会更新，更新时会标明日期。**
 > 通常来讲，在功能名字前面带`*`的就是新添加的
@@ -18,7 +18,7 @@
 
 激活：
 ```
-vivetool /enable /id:[feature id] /variant:[自然数]
+vivetool /enable /id:[feature id] /variant:[变种(自然数)]
 ```
 `variant`是功能的变种，如果不填则默认为0。feature id必填。
 
