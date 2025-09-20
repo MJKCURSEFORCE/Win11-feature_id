@@ -1,5 +1,5 @@
 # Win11-feature_id
-![欢迎](image/1675837678433.png)  
+![欢迎](image/1758386833870.png)  
 这里会整理一些有关Win11（beta或正式版）的feature id，可能会包含已经推出的功能的id。这个项目会持续更新。  
 > 来源主要于betawiki和@phantomofearth的推文  
 
@@ -20,7 +20,7 @@
 ```
 vivetool /enable /id:[feature id] /variant:[自然数]
 ```
-variant是功能的变种，如果不填则默认为0。feature id必填。
+`variant`是功能的变种，如果不填则默认为0。feature id必填。
 
 禁用:
 ```
