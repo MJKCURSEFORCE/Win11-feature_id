@@ -20,4 +20,4 @@ vivetool /disable /id:[feature id]
 ```
 当然，你可以提高这个id的激活权限，通常最高为2
 ```
-vivetool /enable /id:[feature id] /variant:[自然数] /
+vivetool /enable /id:[feature id] /variant:[自然数] /priority:[≥2的自然数]
