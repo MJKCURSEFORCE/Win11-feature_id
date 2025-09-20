@@ -4,6 +4,10 @@
 > [!NOTE]
 > 有些功能需要加入预览体验计划后才能出现，或者永远没有效果。
 
+## 查询和更新
+24H2的最新feature id[在这里](24H2-25H2/20250920_24H2.txt)
+> 通常来讲，在功能名字前面带`*`的就是新添加的
+
 ## 激活和禁用
 > [!IMPORTANT]
 > 这些id需要配合相关的feature id管理工具使用，这里只演示vivetool。
@@ -35,9 +39,6 @@ vivetool /enable /id:56005157 /priority:2
 ## 涉及版本
 - [x] Windows 11 24H2
 - [ ] Windows 11 25H2
-
-
-
 
 
 
