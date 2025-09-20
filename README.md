@@ -31,7 +31,7 @@ vivetool /enable /id:[feature id] /variant:[变种(自然数)] /priority:[权重
 ```
 vivetool /enable /id:56005157 /priority:2
 ```
-其他也是同理。\
+其它也是同理。
 ## 涉及版本
 - [x] Windows 11 24H2
 - [ ] Windows 11 25H2
