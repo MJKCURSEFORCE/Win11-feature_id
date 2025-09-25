@@ -1,5 +1,5 @@
 # Win11-feature_id
-来源：[bilibili](https://www.bilibili.com/opus/1080968462968291334?spm_id_from=333.1387.0.0)  
+（图源：[bilibili](https://www.bilibili.com/opus/1080968462968291334?spm_id_from=333.1387.0.0)）  
 ![欢迎](image/1758386839626.png)  
 这里会整理一些有关Win11（beta或正式版）的feature id，可能会包含已经推出的功能的id。这个项目会持续更新。  
 > 来源主要于betawiki和@phantomofearth的推文  
